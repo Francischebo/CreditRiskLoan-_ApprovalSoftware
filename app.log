@@ -1,0 +1,26 @@
+2024-03-25 22:48:13,212 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 22:48:13,212 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-25 22:50:03,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 22:50:03,075 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-25 22:50:55,932 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 22:50:55,932 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-25 22:50:55,954 - INFO -  * Restarting with watchdog (windowsapi)
+2024-03-25 22:50:58,126 - WARNING - No such comm: hv-extension-comm
+2024-03-25 22:50:58,126 - DEBUG - Current comms: []
+2024-03-25 22:50:58,131 - WARNING - No such comm: hv-extension-comm
+2024-03-25 22:50:58,131 - DEBUG - Current comms: []
+2024-03-25 22:51:31,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 22:51:31,660 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-25 22:55:47,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 22:55:47,326 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-25 23:13:01,777 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-25 23:13:01,777 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-26 11:50:21,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-26 11:50:21,215 - INFO - [33mPress CTRL+C to quit[0m

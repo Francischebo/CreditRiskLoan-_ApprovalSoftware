@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "login&2-factor",
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"phpmailer",
+			"ssssis",
+			"xampp"
+		]
+	}
+}
